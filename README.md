@@ -2,12 +2,24 @@
 **Olle-Hallberg/Olle-Hallberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hello!
-My name is Olle Hallberg, I am a third-year M.Sc student in Engineering Physics at Uppsala University.
+# 👋 Hello!
 
-### Connect with me
-📫 olle.hallberg02@gmail.com  
-<img src="https://i.sstatic.net/gVE0j.png" width="18"> [LinkedIn](https://www.linkedin.com/in/olle-hallberg-715483387/)
+## About me
+My name is Olle Hallberg. I am a third-year M.Sc. student in Engineering Physics at Uppsala University.
+
+---
+
+## 🔎 Current focus
+#### Bachelor thesis: Sensor Calibration
+*Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized gas sensing experiment on board a Stratospheric Balloon mission.*
+- AI-based calibration of a Non-Dispersive Infrared (NDIR) gas sensor
+- Sensor testing
+
+---
+
+## 📫 Connect with me
+**Email**: **olle.hallberg02@gmail.com**  
+<img src="https://i.sstatic.net/gVE0j.png" width="20"> [**LinkedIn**](https://www.linkedin.com/in/olle-hallberg-715483387/)
 
 <!--
 ![LinkedIn logo](https://i.sstatic.net/gVE0j.png)
