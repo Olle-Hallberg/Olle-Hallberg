@@ -11,7 +11,7 @@ My name is Olle Hallberg. I am a third-year M.Sc. student in Engineering Physics
 
 ## 🔎 Current focus
 #### Bachelor thesis: Sensor Calibration
-*Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized gas sensing experiment on board a Stratospheric Balloon mission.*
+*Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized gas sensing experiment on board a stratospheric balloon mission.*
 - AI-based calibration of a Non-Dispersive Infrared (NDIR) gas sensor
 - Sensor testing
 
