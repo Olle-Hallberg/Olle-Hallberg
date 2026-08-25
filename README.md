@@ -5,7 +5,7 @@
 # 👋 Hello!
 
 ## About me
-My name is Olle Hallberg. I am a third-year M.Sc. student in Engineering Physics at Uppsala University.
+My name is Olle Hallberg. I am a MSc student in Engineering Physics at KTH Royal Institute of Technology.
 
 <!--
 ---
