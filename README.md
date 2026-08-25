@@ -19,8 +19,13 @@ My name is Olle Hallberg. I am a MSc student in Engineering Physics at KTH Royal
 ---
 
 ## 📫 Connect with me
+**olle.hallberg02@gmail.com**  
+[**LinkedIn**](https://www.linkedin.com/in/olle-hallberg-715483387/)
+
+<!--
 **Email**: **olle.hallberg02@gmail.com**  
 <img src="https://i.sstatic.net/gVE0j.png" width="20"> [**LinkedIn**](https://www.linkedin.com/in/olle-hallberg-715483387/)
+-->
 
 <!--
 ![LinkedIn logo](https://i.sstatic.net/gVE0j.png)
