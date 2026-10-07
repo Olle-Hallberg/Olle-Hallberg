@@ -2,23 +2,23 @@
 **Olle-Hallberg/Olle-Hallberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hello!
+## Olle Hallberg
+MSc student in Engineering Physics at KTH Royal Institute of Technology.
 
-## About me
-My name is Olle Hallberg. I am a MSc student in Engineering Physics at KTH Royal Institute of Technology.
-
-<!--
 ---
 
-## 🔎 Current focus
-#### Bachelor thesis: Sensor Calibration
-*Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized gas sensing experiment on board a stratospheric balloon mission.*
-- AI-based calibration of a Non-Dispersive Infrared (NDIR) gas sensor
-- Sensor testing
--->
+## Current focus
+**Balloon EXperiments for University Students (BEXUS)**  
+> Mission: BEXUS39  
+> Experiment Title: Methane InfraRed Absorption Gas Experiment (MIRAGE)
+
+Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized gas sensing experiment on board a stratospheric balloon.
+- Data collection and analysis
+- ML-based calibration of a Non-Dispersive Infrared (NDIR) gas sensor
+
 ---
 
-## 📫 Connect with me
+## Connect with me
 **olle.hallberg02@gmail.com**  
 [**LinkedIn**](https://www.linkedin.com/in/olle-hallberg-715483387/)
 
