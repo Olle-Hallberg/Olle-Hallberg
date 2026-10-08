@@ -16,6 +16,8 @@ Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized
 - Data collection and analysis
 - ML-based calibration of a Non-Dispersive Infrared (NDIR) gas sensor
 
+For more information, see my bachelor's thesis: [Calibration of an NDIR Gas Sensor for Stratospheric Pressure and Temperature Conditions](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-592179).
+
 ---
 
 ## Connect with me
