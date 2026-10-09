@@ -8,13 +8,13 @@ MSc student in Engineering Physics at KTH Royal Institute of Technology.
 ---
 
 ## Current focus
-**Balloon EXperiments for University Students (BEXUS)**  
+### Balloon EXperiments for University Students (BEXUS)  
 > Mission: BEXUS39  
 > Experiment Title: Methane InfraRed Absorption Gas Experiment (MIRAGE)
 
-Calibration of a Non-Dispersive Infrared (NDIR) gas sensor used in a pressurized gas sensing experiment on board a stratospheric balloon.
+Calibration of a Non-Dispersive InfraRed (NDIR) gas sensor used in a pressurized gas sensing experiment on board a stratospheric balloon.
 - Data collection and analysis
-- ML-based calibration of a Non-Dispersive Infrared (NDIR) gas sensor
+- ML-based calibration
 
 For more information, see my bachelor's thesis: [Calibration of an NDIR Gas Sensor for Stratospheric Pressure and Temperature Conditions](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-592179).
 
